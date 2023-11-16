@@ -3,6 +3,7 @@
 # Mitigating Risk in the the Aviation Industry: A Business Endeavor
 
 ## The airline industry is a high-risk, high-reward business. On the one hand, airlines can make a lot of money if they are successful. On the other hand, there are a number of risks that can derail an airline's business.
+
 ## Business Understanding
 ## Data Understanding
 ## Data Preparation (Can be really short in README)
